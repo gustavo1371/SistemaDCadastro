@@ -181,6 +181,7 @@
             txtCEP.Name = "txtCEP";
             txtCEP.Size = new Size(161, 23);
             txtCEP.TabIndex = 14;
+            txtCEP.TextChanged += txtCEP_Leave;
             // 
             // txtLogradouro
             // 
