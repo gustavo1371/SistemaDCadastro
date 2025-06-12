@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|c:\\users\\gustavo\\source\\repos\\sistemadcadastro\\sistemadcadastro\\formcadastrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|solutionrelative:formcadastrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|c:\\users\\gustavo\\source\\repos\\sistemadcadastro\\sistemadcadastro\\formcadastrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|solutionrelative:formcadastrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCadastroUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormCadastroUsuarios.cs",
+              "RelativeDocumentMoniker": "FormCadastroUsuarios.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormCadastroUsuarios.cs",
+              "RelativeToolTip": "FormCadastroUsuarios.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwFUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:08:17.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormCadastroUsuarios.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormCadastroUsuarios.cs",
+              "RelativeDocumentMoniker": "FormCadastroUsuarios.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormCadastroUsuarios.cs [Projeto]",
+              "RelativeToolTip": "FormCadastroUsuarios.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:59:50.707Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

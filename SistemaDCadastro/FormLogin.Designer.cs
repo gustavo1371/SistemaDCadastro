@@ -89,6 +89,7 @@
             Controls.Add(btnEntrar);
             Name = "FormLogin";
             Text = "Tela de Login";
+            Load += FormLogin_Load;
             ResumeLayout(false);
             PerformLayout();
         }

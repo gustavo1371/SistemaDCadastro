@@ -1,6 +1,7 @@
 using System;
 using System.IO;
 using System.Windows.Forms;
+using SistemaDCadastro;
 
 namespace SistemaDCadastro
 {
@@ -18,18 +19,23 @@ namespace SistemaDCadastro
 
             if (usuario == "ADMIN" && senha == "123")
             {
-                MessageBox.Show("Login ADMIN bem-sucedido!");
-                return;
-            }
+                FormPrincipal form = new FormPrincipal();
+                MessageBox.Show("Logado com sucesso!");
+                form.Show();
 
-            if (verificarUsuario(usuario, senha))
-            {
-                MessageBox.Show("Login efetuado com êxito!");
-            }
-            else
+            } else
             {
                 MessageBox.Show("Usuário ou senha inválidos!");
             }
+
+
+            if (verificarUsuario(usuario, senha))
+            {
+                FormCadastroProdutos form = new FormCadastroProdutos();
+                form.Show();
+            }
+           
+            
         }
 
         private bool verificarUsuario(string usuario, string senha)
@@ -63,5 +69,9 @@ namespace SistemaDCadastro
             return false;
         }
 
+        private void FormLogin_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

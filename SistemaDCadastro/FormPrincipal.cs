@@ -19,22 +19,26 @@ namespace SistemaDCadastro
 
         private void btnClientes_Click(object sender, EventArgs e)
         {
-
+            FormCadastroClientes form = new FormCadastroClientes();
+            form.Show();
         }
 
         private void btnProdutos_Click(object sender, EventArgs e)
         {
-
+            FormCadastroProdutos form = new FormCadastroProdutos();
+            form.Show();
         }
 
         private void btnPedidos_Click(object sender, EventArgs e)
         {
-
+            FormCadastroPedidos form = new FormCadastroPedidos();
+            form.Show();
         }
 
         private void btnUsuarios_Click(object sender, EventArgs e)
         {
-
+            FormCadastroUsuarios form = new FormCadastroUsuarios();
+            form.Show();
         }
     }
 }
