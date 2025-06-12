@@ -16,5 +16,15 @@ namespace SistemaDCadastro
         {
             InitializeComponent();
         }
+
+        private void btnBuscarCliente_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAdicionarProduto_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
