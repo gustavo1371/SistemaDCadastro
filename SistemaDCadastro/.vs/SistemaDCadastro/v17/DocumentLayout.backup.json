@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|c:\\users\\gustavo\\source\\repos\\sistemadcadastro\\sistemadcadastro\\formcadastrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|solutionrelative:formcadastrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|c:\\users\\gustavo\\source\\repos\\sistemadcadastro\\sistemadcadastro\\formcadastrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|solutionrelative:formcadastrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|c:\\users\\gustavo\\source\\repos\\sistemadcadastro\\sistemadcadastro\\formcadastrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|solutionrelative:formcadastrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FormCadastroUsuarios.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormCadastroUsuarios.cs",
               "RelativeDocumentMoniker": "FormCadastroUsuarios.cs",
@@ -39,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FormCadastroUsuarios.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormCadastroUsuarios.cs",
               "RelativeDocumentMoniker": "FormCadastroUsuarios.cs",
