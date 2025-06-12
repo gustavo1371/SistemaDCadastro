@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|c:\\users\\gustavo\\source\\repos\\sistemadcadastro\\sistemadcadastro\\formcadastropedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|solutionrelative:formcadastropedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|c:\\users\\gustavo\\source\\repos\\sistemadcadastro\\sistemadcadastro\\formconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|solutionrelative:formconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|c:\\users\\gustavo\\source\\repos\\sistemadcadastro\\sistemadcadastro\\formcadastropedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|solutionrelative:formcadastropedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|c:\\users\\gustavo\\source\\repos\\sistemadcadastro\\sistemadcadastro\\formconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|solutionrelative:formconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormCadastroPedidos.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormCadastroPedidos.cs",
-              "RelativeDocumentMoniker": "FormCadastroPedidos.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormCadastroPedidos.cs",
-              "RelativeToolTip": "FormCadastroPedidos.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAswK8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FormConsulta.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormConsulta.cs",
+              "RelativeDocumentMoniker": "FormConsulta.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormConsulta.cs [Projeto]",
+              "RelativeToolTip": "FormConsulta.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T03:49:11.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T04:18:04.167Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormCadastroPedidos.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormCadastroPedidos.cs",
-              "RelativeDocumentMoniker": "FormCadastroPedidos.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormCadastroPedidos.cs [Projeto]",
-              "RelativeToolTip": "FormCadastroPedidos.cs [Projeto]",
+              "DocumentIndex": 0,
+              "Title": "FormConsulta.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormConsulta.cs",
+              "RelativeDocumentMoniker": "FormConsulta.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormConsulta.cs",
+              "RelativeToolTip": "FormConsulta.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowBYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T03:40:01.895Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-06-12T04:15:25.89Z",
+              "EditorCaption": ""
             }
           ]
         }
