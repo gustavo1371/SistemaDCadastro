@@ -34,7 +34,7 @@
             lblDescricao = new Label();
             txtCodigo = new TextBox();
             txtNomeProduto = new TextBox();
-            textBox3 = new TextBox();
+            txtPreco = new TextBox();
             txtDescricao = new TextBox();
             btnCadastrar = new Button();
             btnAtualizar = new Button();
@@ -91,12 +91,12 @@
             txtNomeProduto.Size = new Size(100, 23);
             txtNomeProduto.TabIndex = 5;
             // 
-            // textBox3
+            // txtPreco
             // 
-            textBox3.Location = new Point(79, 182);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(100, 23);
-            textBox3.TabIndex = 6;
+            txtPreco.Location = new Point(79, 182);
+            txtPreco.Name = "txtPreco";
+            txtPreco.Size = new Size(100, 23);
+            txtPreco.TabIndex = 6;
             // 
             // txtDescricao
             // 
@@ -144,7 +144,7 @@
             Controls.Add(btnAtualizar);
             Controls.Add(btnCadastrar);
             Controls.Add(txtDescricao);
-            Controls.Add(textBox3);
+            Controls.Add(txtPreco);
             Controls.Add(txtNomeProduto);
             Controls.Add(txtCodigo);
             Controls.Add(lblDescricao);
@@ -165,7 +165,7 @@
         private Label lblDescricao;
         private TextBox txtCodigo;
         private TextBox txtNomeProduto;
-        private TextBox textBox3;
+        private TextBox txtPreco;
         private TextBox txtDescricao;
         private Button btnCadastrar;
         private Button btnAtualizar;

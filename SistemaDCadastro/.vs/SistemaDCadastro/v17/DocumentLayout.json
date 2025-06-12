@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|c:\\users\\gustavo\\source\\repos\\sistemadcadastro\\sistemadcadastro\\formcadastroclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|solutionrelative:formcadastroclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|c:\\users\\gustavo\\source\\repos\\sistemadcadastro\\sistemadcadastro\\formcadastroprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|solutionrelative:formcadastroprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\formcadastroclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|solutionrelative:formcadastroclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|c:\\users\\gustavo\\source\\repos\\sistemadcadastro\\sistemadcadastro\\formcadastroprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{976C214F-1C58-45D7-818A-DB2CFB0DE4BA}|SistemaDCadastro.csproj|solutionrelative:formcadastroprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,35 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormCadastroClientes.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormCadastroClientes.cs",
-              "RelativeDocumentMoniker": "FormCadastroClientes.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormCadastroClientes.cs",
-              "RelativeToolTip": "FormCadastroClientes.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAADgvykAAAAIAQAAAAAAAA==",
+              "Title": "FormCadastroProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormCadastroProdutos.cs",
+              "RelativeDocumentMoniker": "FormCadastroProdutos.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormCadastroProdutos.cs",
+              "RelativeToolTip": "FormCadastroProdutos.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwHMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T02:54:27.17Z",
+              "WhenOpened": "2025-06-12T03:18:42.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormCadastroClientes.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormCadastroClientes.cs",
-              "RelativeDocumentMoniker": "FormCadastroClientes.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormCadastroClientes.cs [Projeto]",
-              "RelativeToolTip": "FormCadastroClientes.cs [Projeto]",
+              "Title": "FormCadastroProdutos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormCadastroProdutos.cs",
+              "RelativeDocumentMoniker": "FormCadastroProdutos.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\SistemaDCadastro\\SistemaDCadastro\\FormCadastroProdutos.cs [Projeto]",
+              "RelativeToolTip": "FormCadastroProdutos.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T02:44:12.857Z",
+              "WhenOpened": "2025-06-12T03:13:09.278Z",
               "EditorCaption": " [Projeto]"
             }
           ]
