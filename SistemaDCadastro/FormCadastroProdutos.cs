@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SistemaDCadastro
 {
-    public partial class Form2 : Form
+    public partial class FormCadastroProdutos : Form
     {
-        public Form2()
+        public FormCadastroProdutos()
         {
             InitializeComponent();
         }

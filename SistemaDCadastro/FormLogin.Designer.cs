@@ -1,6 +1,6 @@
 ﻿namespace SistemaDCadastro
 {
-    partial class Form1
+    partial class FormLogin
     {
         /// <summary>
         ///  Required designer variable.
@@ -77,7 +77,7 @@
             txtSenha.Size = new Size(257, 23);
             txtSenha.TabIndex = 4;
             // 
-            // Form1
+            // FormLogin
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -87,8 +87,8 @@
             Controls.Add(lblSenha);
             Controls.Add(lblUsuario);
             Controls.Add(btnEntrar);
-            Name = "Form1";
-            Text = "Form1";
+            Name = "FormLogin";
+            Text = "Tela de Login";
             ResumeLayout(false);
             PerformLayout();
         }

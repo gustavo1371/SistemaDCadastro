@@ -1,6 +1,6 @@
 ﻿namespace SistemaDCadastro
 {
-    partial class Form6
+    partial class FormCadastroPedidos
     {
         /// <summary>
         /// Required designer variable.

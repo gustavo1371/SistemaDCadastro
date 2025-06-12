@@ -1,6 +1,6 @@
 ﻿namespace SistemaDCadastro
 {
-    partial class Form5
+    partial class FormCadastroProdutos
     {
         /// <summary>
         /// Required designer variable.
